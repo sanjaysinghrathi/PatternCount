@@ -1,0 +1,12 @@
+Package: PatternCount
+Type: Package
+Title: PatternCount is a package to count the number of times a 'Pattern' occurs in a 'Text'.
+Version: 0.1.0
+Author: Sheah Lin Lee and Sanjay Rathee
+Maintainer: Sanjay Rathee <sanjay.rathee@oncology.ox.ac.uk>
+Description: PatternCount is a package to count the number of times a 'Pattern' occurs in a 'Text'. It is originally developed for use in genomics to identify the number of times a k-mer ('Pattern') appears in a length of DNA sequence ('Text'). 
+However, it can be apply to any character vectors.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: 
