@@ -12,8 +12,8 @@ PatternCount(Text, Pattern)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{Text}{A charactor vector containing one long string}
-  \item{Pattern}{A charactor vector containing one small string. Its length should be less than text}
+  \item{Text}{A character vector containing one string}
+  \item{Pattern}{A character vector containing one string. Its length should be shorter than Text}
 }
 \details{
 %%  ~~ If necessary, more details than the description above ~~
